@@ -1,4 +1,5 @@
-# Hint: You're in a position to not only intercept Alice and Bob's DH key exchange, but also rewrite their messages. Think about how you can play with the DH equation that they calculate, and therefore sidestep the need to crack any discrete logarithm problem.
+# [Writeup] CryptoHack - Parameter Injection
+## Hint: You're in a position to not only intercept Alice and Bob's DH key exchange, but also rewrite their messages. Think about how you can play with the DH equation that they calculate, and therefore sidestep the need to crack any discrete logarithm problem.
 
 ## Ý tưởng:
 - Dựa vào thông tin đề bài cho thì ta có thể "rewrite their messages". Tức là có thể thay đổi nội dung trao đổi giữa 2 người. 
